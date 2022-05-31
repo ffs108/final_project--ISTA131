@@ -1,0 +1,16 @@
+https://fbref.com/en/comps/12/2020-2021-La-Liga-Stats#all_stats_squads_defense
+https://fbref.com/en/comps/9/2020-2021-Premier-League-Stats#all_stats_squads_defense
+https://fbref.com/en/comps/11/2020-2021-Serie-A-Stats#all_stats_squads_defense
+https://fbref.com/en/comps/13/2020-2021-Ligue-1-Stats#all_stats_squads_defense
+https://fbref.com/en/comps/20/2020-2021-Bundesliga-Stats
+https://fbref.com/en/comps/8/10096/2020-2021-Champions-League-Stats
+
+I choose these sets of data because I was curious whether there were large differences or 
+patterns in the amount of tackles being performed versus the amount of actual interceptions
+being achieved in the top 5 European soccer leagues. This I had even thought would fit a 
+scatter plot model in case the trend by team followed a specific direction the more elite
+defense was supposedly played in said league. I wanted to focus on defensive actions because
+typically, sports analysts tend to undervalue riskier defensive actions and forego that a
+attacking has more importance. A visualization of defensive actions between winners of these
+leagues was also something I wanted to create to get a better idea of the strength of squad
+defense also translated to internation play at the club level.
